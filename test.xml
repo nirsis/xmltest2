@@ -8,4 +8,10 @@
         <ca>1</ca>
         <title>My first app</title>
     </module>
+     <module lecturer="3245345">Interactive web applications&#33; </module>
+    <module lecturer="3245345"><![CDATA[ Interactive web applications!! aasdasd ]]>; </module>
+    <module>
+        <ca>1</ca>
+        <title>My first app</title>
+    </module>
 </document>
